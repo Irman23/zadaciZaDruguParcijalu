@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 
 int suma(int n)
@@ -15,4 +15,3 @@ void main()
 	cout << "Suma kvadrata od 1 do n iznosi: " << s << endl;
 
 }
-*/

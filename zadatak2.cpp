@@ -1,6 +1,6 @@
-﻿/*#include<iostream>
+﻿#include<iostream>
 using namespace std;
-//Napišite program u kojem ćete upotrijebiti rekurzivnu funkciju čiji je zadatak računanje sume kvadrata od n do m(n i m su prirodni brojevi).
+Napišite program u kojem ćete upotrijebiti rekurzivnu funkciju čiji je zadatak računanje sume kvadrata od n do m(n i m su prirodni brojevi).
 
 int sumaKvadrata(int n,int m)
 {
@@ -17,7 +17,7 @@ void main()
 	suma = sumaKvadrata(broj, broj2);
 	cout << "Suma kvadrata iznosi: " << suma << endl;
 }
-*/
+
  
 	
 	
