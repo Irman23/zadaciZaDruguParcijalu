@@ -158,6 +158,8 @@ void main()
 	najveciuKoloni(matrica, red - 1, kolona - 1, kolonai - 1);
 	cout << "Najveci element u izabranoj koloni je: " << najveciK << endl;
 	--------------------------------------------------------------------------------------------
+	delete[]matrica;
+	matrica=nullptr;
 
 
 }
