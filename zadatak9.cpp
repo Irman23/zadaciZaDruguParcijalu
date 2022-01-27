@@ -93,7 +93,7 @@ void main()
 		cout << "Suma kolona je jednaka sumi redova." << endl;
 
 	if (glavnaD(matrica, size) == sporednaD(matrica, size))
-		//cout << "Suma sporedne dijagonale je jednaka glavnoj." << endl;
+		cout << "Suma sporedne dijagonale je jednaka glavnoj." << endl;
 
 
 
